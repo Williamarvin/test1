@@ -6,9 +6,9 @@ my_dict = {"mango":{200:100},
 dict1 = dict()
 keys = my_dict.keys()
 keys = list(keys)
-
+#
 # group by
-
+#
 
 # get
 print(my_dict.get("mango"))
