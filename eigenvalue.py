@@ -27,3 +27,5 @@ ss_residual = np.sum(residuals**2)
 r_squared = 1 - (ss_residual / ss_total)
 
 print("Proportion of Variance (R-squared):", r_squared)
+
+# changes
