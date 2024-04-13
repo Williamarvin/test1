@@ -10,7 +10,7 @@ def worker1():
         if done == True:
             break
         
-def worker2():
+def worker2(): #
     while True:
         print("task2")
         if done == True:

@@ -16,6 +16,6 @@ print(pic.ok)
 
 # if 200, success, if 300, redirects, if 400, client errors, if 500, server error
 print(pic.status_code)
-
+#
 
 
